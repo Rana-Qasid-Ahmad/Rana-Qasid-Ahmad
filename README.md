@@ -4,10 +4,10 @@
 
 
 
-## 📚 Covered Courses
+## 📚 Edcational Background
 
 
-<div style="line-height: 1.15">
+<div style="line-height: 3">
     <b>Virtual University Of Pakistan</b>
     <p>BS (Computer Science)</p>
 </div>
@@ -18,19 +18,22 @@
 
 ## 💻 Tools & Technologies
 
-<div style="display:flex">
+    
+[![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)](#)&nbsp;&nbsp;
+[![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)](#)&nbsp;&nbsp;
+[![Next.jS](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=Next.JS)](#)&nbsp;&nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=Node.js)](#)&nbsp;&nbsp;
+[![ExpressJs](https://img.shields.io/badge/Express_Js-grey?style=for-the-badge&logo=Express)](#)&nbsp;&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=MongoDB)](#)&nbsp;&nbsp;
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
-<!--[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;-->
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-<!--[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;-->
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-<!--[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=f89820)](#)&nbsp;&nbsp;-->
-[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
-[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](#)&nbsp;&nbsp;
-[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS3)](#)&nbsp;&nbsp;
+[![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5)](#)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=GitHub)](#)&nbsp;&nbsp;
+[![tailwind Css](https://img.shields.io/badge/tailwind_Css-grey?style=for-the-badge&logo=tailwindcss)](#)&nbsp;&nbsp;
+[![WordPress](https://img.shields.io/badge/WordPress-grey?style=for-the-badge&logo=WordPress)](#)&nbsp;&nbsp;
+[![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP)](#)&nbsp;&nbsp;
+
+
 
 </div>
 
@@ -42,7 +45,6 @@
   <a href="https://www.linkedin.com/in/rana-qasid-ahmad/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!--<a href="https://twitter.com/harisbinrehan"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>-->
   <a href="https://github.com/Rana-Qasid-Ahmad"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    
   <a href="https://api.whatsapp.com/send?phone=923127540166"><img title="Message me on Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 <!-- For differnt icons I found this very useful.(https://github.com/alexandresanlim/Badges4-README.md-Profile) -->
