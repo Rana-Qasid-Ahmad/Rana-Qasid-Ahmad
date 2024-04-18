@@ -24,7 +24,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 <!--[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;-->
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 <!--[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=f89820)](#)&nbsp;&nbsp;-->
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](#)&nbsp;&nbsp;
