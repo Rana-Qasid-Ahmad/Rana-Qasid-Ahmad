@@ -5,20 +5,10 @@
 
 
 ## 📚 Covered Courses
-<!--<div style="line-height: 1.15">
-    <b>Lab Instructor - NUCES Lahore </b>
-    <p>Data Structures (September 2023 - present)</p>
-</div>
+
 
 <div style="line-height: 1.15">
-    <b>Teaching Assistant - NUCES Lahore </b>-->
-    <p>Object Oriented Programming</p>
-    <p>Data Structures</p>
-    <p>MySQL</p>
-</div>
-
-<div style="line-height: 1.15">
-    <b>University of Lahore</b>
+    <b>Virtual University Of Pakistan</b>
     <p>BS (Computer Science)</p>
 </div>
 
